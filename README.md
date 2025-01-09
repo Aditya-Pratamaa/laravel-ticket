@@ -7,6 +7,35 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Dokumentasi
+Homepage
+![image](https://github.com/user-attachments/assets/7207428d-2fda-4631-b005-9c6f782b4c72)
+
+## Ticket Type
+Proses CRUD pada tipe tiket.
+![image](https://github.com/user-attachments/assets/5ca9d693-c933-4656-89e1-add01b88c15c)
+![image](https://github.com/user-attachments/assets/506544d6-3140-470a-95d9-aaaa84a83b6e)
+![image](https://github.com/user-attachments/assets/11dbdfaa-7943-4629-94fc-043c89bc3a75)
+
+## Projects
+![image](https://github.com/user-attachments/assets/710c9408-fc99-455c-a512-0dec4fb556d6)
+![image](https://github.com/user-attachments/assets/8991ea6e-4c3b-44ae-9abe-2c7b7c712f18)
+Proses CRUD pada projects
+![image](https://github.com/user-attachments/assets/d77245f1-2958-4e59-acf5-121fad02b142)
+
+## Ticket
+Pengguna bisa mengubah tipe tiket yang dipilih jika terjadi kesalahan
+![image](https://github.com/user-attachments/assets/e2492b30-d113-499d-8584-355a54b357ec)
+![image](https://github.com/user-attachments/assets/2c33f92e-f192-40e8-a492-9224846d8ffa)
+
+
+
+
+![image](https://github.com/user-attachments/assets/97e34e3b-5979-4cc4-8d0b-aaebeada3a93)
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
